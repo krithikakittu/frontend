@@ -1,0 +1,1 @@
+This is a placeholder for your Angular app. Run `ng new frontend` and paste code.
